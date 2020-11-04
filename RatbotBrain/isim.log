@@ -1,0 +1,24 @@
+ISim log file
+Running: /home/pzeno/Mojo_Projs/RatbotBrain/TB_ratbot_brain_top_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/pzeno/Mojo_Projs/RatbotBrain/TB_ratbot_brain_top_isim_beh.wdb 
+ISim O.40d (signature 0xfb738814)
+----------------------------------------------------------------------
+INFO:Security:67 - XILINXD_LICENSE_FILE is set to '/opt/Xilinx/13.1/ISE_DS/ISE/coregen/core_licenses:/home/pzeno/.Xilinx/Coregen/CoreLicenses:/opt/Xilinx/11.1/ISE/coregen/core_licenses' in /home/pzeno/.flexlmrc.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 786690 ns :  in File "/home/pzeno/Mojo_Projs/RatbotBrain/src/TB_ratbot_brain_top.v" Line 185 
+# run all
+Stopped at time : 5194270 ns : File "/home/pzeno/Mojo_Projs/RatbotBrain/src/avr_interface.v" Line 176
+# exit 0

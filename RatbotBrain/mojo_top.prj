@@ -1,0 +1,8 @@
+verilog work "src/uart_tx.v"
+verilog work "src/uart_rx.v"
+verilog work "src/tx_data_encoder.v"
+verilog work "src/rx_data_decoder.v"
+verilog work "src/cclk_detector.v"
+verilog work "src/cognitive_map.v"
+verilog work "src/avr_interface.v"
+verilog work "src/mojo_top.v"

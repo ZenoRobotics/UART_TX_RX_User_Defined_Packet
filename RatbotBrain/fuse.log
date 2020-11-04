@@ -1,0 +1,73 @@
+Running: /opt/Xilinx/13.1/ISE_DS/ISE/bin/lin/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/pzeno/Mojo_Projs/RatbotBrain/TB_ratbot_brain_top_isim_beh.exe -prj /home/pzeno/Mojo_Projs/RatbotBrain/TB_ratbot_brain_top_beh.prj work.TB_ratbot_brain_top work.glbl 
+ISim O.40d (signature 0xfb738814)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file \"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v\" into library work
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 25: Parameter declaration becomes local in uart_tx with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 28: Parameter declaration becomes local in uart_tx with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 29: Parameter declaration becomes local in uart_tx with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 30: Parameter declaration becomes local in uart_tx with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 31: Parameter declaration becomes local in uart_tx with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 32: Parameter declaration becomes local in uart_tx with formal parameter declaration list
+Analyzing Verilog file \"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v\" into library work
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v" Line 23: Parameter declaration becomes local in uart_rx with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v" Line 24: Parameter declaration becomes local in uart_rx with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v" Line 25: Parameter declaration becomes local in uart_rx with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v" Line 26: Parameter declaration becomes local in uart_rx with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v" Line 27: Parameter declaration becomes local in uart_rx with formal parameter declaration list
+Analyzing Verilog file \"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v\" into library work
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 28: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 29: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 30: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 47: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 48: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 49: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 50: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 53: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 54: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 55: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 56: Parameter declaration becomes local in tx_data_encoder with formal parameter declaration list
+Analyzing Verilog file \"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v\" into library work
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 48: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 49: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 50: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 53: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 54: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 55: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 56: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 57: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 58: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 59: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 60: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 63: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 64: Parameter declaration becomes local in rx_data_decoder with formal parameter declaration list
+Analyzing Verilog file \"/home/pzeno/Mojo_Projs/RatbotBrain/src/cclk_detector.v\" into library work
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/cclk_detector.v" Line 10: Parameter declaration becomes local in cclk_detector with formal parameter declaration list
+Analyzing Verilog file \"/home/pzeno/Mojo_Projs/RatbotBrain/src/cognitive_map.v\" into library work
+Analyzing Verilog file \"/home/pzeno/Mojo_Projs/RatbotBrain/src/avr_interface.v\" into library work
+WARNING:HDLCompiler:693 - "/home/pzeno/Mojo_Projs/RatbotBrain/src/avr_interface.v" Line 93: Parameter declaration becomes local in avr_interface with formal parameter declaration list
+Analyzing Verilog file \"/home/pzeno/Mojo_Projs/RatbotBrain/src/mojo_top.v\" into library work
+Analyzing Verilog file \"/home/pzeno/Mojo_Projs/RatbotBrain/src/TB_ratbot_brain_top.v\" into library work
+Analyzing Verilog file \"/opt/Xilinx/13.1/ISE_DS/ISE//verilog/src/glbl.v\" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 28772 KB
+Fuse CPU Usage: 180 ms
+Compiling module cclk_detector(CLK_RATE=50000000)
+Compiling module uart_rx(CLKS_PER_BIT=434)
+Compiling module rx_data_decoder(CLKS_PER_BIT=434...
+Compiling module uart_tx(CLKS_PER_BIT=434)
+Compiling module tx_data_encoder(CLKS_PER_BIT=434...
+Compiling module avr_interface_default
+Compiling module cognitive_map
+Compiling module mojo_top
+Compiling module TB_ratbot_brain_top
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+Compiled 10 Verilog Units
+Built simulation executable /home/pzeno/Mojo_Projs/RatbotBrain/TB_ratbot_brain_top_isim_beh.exe
+Fuse Memory Usage: 71964 KB
+Fuse CPU Usage: 250 ms
+GCC CPU Usage: 1410 ms

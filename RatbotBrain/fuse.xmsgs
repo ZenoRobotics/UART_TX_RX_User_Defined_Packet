@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 25: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_tx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 28: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_tx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 29: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_tx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 30: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_tx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 31: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_tx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_tx.v" Line 32: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_tx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v" Line 23: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_rx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v" Line 24: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_rx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v" Line 25: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_rx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v" Line 26: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_rx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/uart_rx.v" Line 27: Parameter declaration becomes local in <arg fmt="%s" index="1">uart_rx</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 28: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 29: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 30: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 47: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 48: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 49: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 50: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 53: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 54: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 55: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/tx_data_encoder.v" Line 56: Parameter declaration becomes local in <arg fmt="%s" index="1">tx_data_encoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 48: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 49: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 50: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 53: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 54: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 55: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 56: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 57: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 58: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 59: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 60: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 63: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/rx_data_decoder.v" Line 64: Parameter declaration becomes local in <arg fmt="%s" index="1">rx_data_decoder</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/cclk_detector.v" Line 10: Parameter declaration becomes local in <arg fmt="%s" index="1">cclk_detector</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/pzeno/Mojo_Projs/RatbotBrain/src/avr_interface.v" Line 93: Parameter declaration becomes local in <arg fmt="%s" index="1">avr_interface</arg> with formal parameter declaration list
+</msg>
+
+</messages>
+
